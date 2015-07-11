@@ -1,0 +1,4 @@
+class NewClass1
+{
+
+};
