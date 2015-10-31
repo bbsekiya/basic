@@ -1,7 +1,8 @@
+
 #include <iostream>
 #include <vector>
-
-struct Winter
+#include "seasons.h"
+struct Winter : public Seasons
 {
 	int semester;
 	std::vector<int> x;
